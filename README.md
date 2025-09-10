@@ -1,1 +1,1 @@
-# FinalYearProject
+# Law GPT
