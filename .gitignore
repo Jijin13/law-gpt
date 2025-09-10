@@ -1,0 +1,14 @@
+# Ignore the gpt folder
+gpt/
+
+# Ignore environment file
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+.env/
